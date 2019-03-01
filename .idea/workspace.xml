@@ -47,6 +47,11 @@
               <item name="asilva145" type="b2602c69:ProjectViewProjectNode" />
               <item name="asilva145" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="asilva145" type="b2602c69:ProjectViewProjectNode" />
+              <item name="asilva145" type="462c0819:PsiDirectoryNode" />
+              <item name="JemepresenteV1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -85,12 +90,12 @@
       <updated>1550899198838</updated>
       <workItem from="1550899200011" duration="19000" />
       <workItem from="1550899220360" duration="63000" />
-      <workItem from="1551414837523" duration="485000" />
+      <workItem from="1551414837523" duration="766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="567000" />
+    <option name="totallyTimeSpent" value="848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
