@@ -1,0 +1,13 @@
+body
+{   width:900px;
+    margin:auto;
+}
+
+p
+{
+    font-family: Verdana;
+    font-size:20px;
+    color:blue;
+    text-align: center;
+    background: #fefbd8;
+}
