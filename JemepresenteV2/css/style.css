@@ -1,13 +1,19 @@
+<!-- By da Silva  mars,2019 -->
+
 body
-{   width:900px;
+{   width:700px;
     margin:auto;
 }
 
-p
+p, li
 {
-    font-family: Verdana;
+    font-family:sans-serif; Verdana,tahoma,arial;
     font-size:20px;
-    color:blue;
+    color:#000000;
     text-align: center;
-    background: #fefbd8;
+    background: aliceblue;
+
 }
+
+
+
