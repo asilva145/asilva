@@ -11,7 +11,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JemepresenteV2/HTML/index.html">
+        <entry file="file://$PROJECT_DIR$/JemepresenteV2/css/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
@@ -20,26 +20,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JemepresenteV1/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JemepresenteV2/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="272">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JemepresenteV2/HTML/img/picjumbo.com_banque-dimages-gratuites_tombreton.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -61,8 +47,9 @@
         <option value="$PROJECT_DIR$/JemepresenteV1/index.html" />
         <option value="$PROJECT_DIR$/PremierProjet/HTML/index.html" />
         <option value="$PROJECT_DIR$/PremierProjet/css/style.css" />
-        <option value="$PROJECT_DIR$/JemepresenteV2/css/style.css" />
         <option value="$PROJECT_DIR$/JemepresenteV2/HTML/index.html" />
+        <option value="$PROJECT_DIR$/JemepresenteV2/css/style.css" />
+        <option value="$PROJECT_DIR$/JemepresenteV2/css/index.html" />
       </list>
     </option>
   </component>
@@ -123,6 +110,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\JemepresenteV2\css" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\JemepresenteV2\HTML\img" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\PremierProjet\HTML" />
     </key>
@@ -153,16 +141,15 @@
       <workItem from="1550899220360" duration="63000" />
       <workItem from="1551414837523" duration="2440000" />
       <workItem from="1552030420061" duration="4602000" />
-      <workItem from="1552373812693" duration="3607000" />
+      <workItem from="1552373812693" duration="4114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10731000" />
+    <option name="totallyTimeSpent" value="11238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="422" y="91" width="1392" height="995" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18843845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -197,6 +184,9 @@
     <entry file="file://$PROJECT_DIR$/JemepresenteV2/css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/JemepresenteV2/HTML/img/picjumbo.com_banque-dimages-gratuites_tombreton.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/JemepresenteV1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -204,17 +194,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JemepresenteV2/HTML/img/picjumbo.com_banque-dimages-gratuites_tombreton.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/JemepresenteV2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="272">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JemepresenteV2/HTML/index.html">
+    <entry file="file://$PROJECT_DIR$/JemepresenteV2/css/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
