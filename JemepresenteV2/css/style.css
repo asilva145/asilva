@@ -1,22 +1,31 @@
 <!-- By da Silva  mars,2019 -->
 
+
+main{
+    width: 95%;
+    margin: 0 auto;
+}
 body
-{   width:700px;
-    margin:auto;
+{
+
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #404040;
+
+}
 }
 
-p, li
+h1,
 {
-    font-family:sans-serif; Verdana,tahoma,arial;
-    font-size:10px;
-    color:#000000;
     text-align: center;
-    background: aliceblue;
-
+    text-transform: uppercase;
+    font-size: 200%;
+    margin:6px;
 }
 img
 {
-    float: LEFT;
+    float: right;
 }
 
 
