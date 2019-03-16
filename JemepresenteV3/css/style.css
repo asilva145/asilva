@@ -1,0 +1,45 @@
+
+
+h1 {
+    font-size: 32px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+h1,h2{
+    color : #000000;
+    text-align: center;
+    }
+
+p{
+    font-size: 14px;
+    color:gris;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a{
+    color : #ffffff;
+    text-decoration: none;
+    text-align: left;
+}
+#menu li {
+    display:inline;
+}
+
+#menu {
+    list-style:none;
+    margin-left:-37px;
+}
+
+h1 {
+    font-size: 32px;
+}
+.img
+{position: fixed;
+    top: 50%;
+    left: 50%;
+
+}

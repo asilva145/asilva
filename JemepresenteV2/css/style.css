@@ -13,14 +13,14 @@ body
     color: #000000;
 
 }
-}
+
 
 h1
 {
 
     text-transform: uppercase;
     font-size: 100%;
-    text-align: center;
+    text-align: left;
 }
 img
 {
