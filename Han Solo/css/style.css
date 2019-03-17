@@ -4,7 +4,9 @@ body
 {
     width:900px;
     margin:auto;
-    background-color: black;
+background-color: black;
+    background-image: url("etoileMort.jpg");
+    background-repeat: no-repeat;
 
 }
 
@@ -44,6 +46,12 @@ img{
     font-family: starjedi;
     font-size:78px;
     color : yellow;
+
+
+}
+.back{
+
+
     background-image: url("etoileMort.jpg");
     background-repeat: no-repeat;
 
