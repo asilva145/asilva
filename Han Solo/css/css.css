@@ -1,13 +1,14 @@
 /*by Andrea*/
 
-body{
-    background:black;
-    background-repeat: repeat;
+body
+{
+    background-color: yellow;
     width:900px;
     margin:auto;
-    text-align: center;
+
 }
 
-h1,h2,h3,h4{
+h1,h2,h3,h4
+{
         text-align: center;
 }
