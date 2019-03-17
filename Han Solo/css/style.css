@@ -2,7 +2,7 @@
 
 body
 {
-    width:900px;
+    width: 900 px;
     margin:auto;
 background-color: black;
     background-image: url("etoileMort.jpg");
@@ -10,11 +10,7 @@ background-color: black;
 
 }
 
-h1,h2,h4
-{
-        text-align: center;
-         color : #ffffff;
-}
+
 p
 {
     text-align: justify;
@@ -32,12 +28,12 @@ a{
     font-size:24px;
 }
 
-img{
+
+.solo{
     width: 400px;
     margin:auto;
     display:block;
 }
-
 @font-face {
     font-family: starjedi;
     src: url("starjedi.ttf");
@@ -49,10 +45,35 @@ img{
 
 
 }
+}
 .back{
+    width: 80px;
+    margin:auto;
+    display:block;
 
 
-    background-image: url("etoileMort.jpg");
-    background-repeat: no-repeat;
-
+}
+h1
+{
+    text-align: center;
+    color : #ffffff;
+    font-size:140px;
+}
+h2
+{
+    text-align: center;
+    color : #ffffff;
+    font-size:72px;
+}
+h3
+{
+    text-align: center;
+    color : #ffffff;
+    font-size:60px;
+}
+h4
+{
+    text-align: center;
+    color : #ffffff;
+    font-size:44px;
 }
