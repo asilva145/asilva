@@ -2,9 +2,9 @@
 
 body
 {
-    width: 900 px;
+    width: 1000px;
     margin:auto;
-background-color: black;
+    background-color: black;
     background-image: url("etoileMort.jpg");
     background-repeat: no-repeat;
 
@@ -16,11 +16,7 @@ p
     text-align: justify;
     color : #ffffff;
     font-size:14px;
-}
-h3
-{
-    text-align: center;
-    color : yellow;
+
 }
 a{
     color : #ffffff;
@@ -40,7 +36,7 @@ a{
 }
 .star{
     font-family: starjedi;
-    font-size:78px;
+    font-size:140px;
     color : yellow;
 
 
@@ -57,7 +53,7 @@ h1
 {
     text-align: center;
     color : #ffffff;
-    font-size:140px;
+
 }
 h2
 {
@@ -68,8 +64,8 @@ h2
 h3
 {
     text-align: center;
-    color : #ffffff;
     font-size:60px;
+    color :yellow;
 }
 h4
 {
