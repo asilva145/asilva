@@ -15,7 +15,7 @@ p
 {
     text-align: justify;
     color : #ffffff;
-    font-size:14px;
+    font-size:16px;
 
 }
 a{
@@ -27,31 +27,24 @@ a{
 
 .solo{
      margin:auto;
-    display:block;
+     display:block;
 }
 @font-face {
     font-family: starjedi;
     src: url("starjedi.ttf");
 }
-.star{
+.star
+{
     font-family: starjedi;
     font-size:140px;
     color : yellow;
-
-
 }
-}
-.back{
-    width: 80px;
-    margin:auto;
-    display:block;
 
-
-}
 h1
 {
     text-align: center;
     color : #ffffff;
+    margin: 0 0 0;
 
 }
 h2
@@ -64,11 +57,16 @@ h3
 {
     text-align: center;
     font-size:60px;
-    color :yellow;
+    color : #ffffff;
 }
 h4
 {
     text-align: center;
     color : #ffffff;
     font-size:44px;
+}
+
+.films
+{
+    color :yellow;
 }
