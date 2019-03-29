@@ -1,18 +1,22 @@
 .rouge
 {
     background-color: red;
+    height:100px;
 }
 
 .blue
 {
     background-color: deepskyblue;
+    height:100px;
 }
 
 .green
 {
     background-color: green;
+    height:100px;
 }
 .yellow
 {
     background-color: yellow;
+    height:100px;
 }
