@@ -19,11 +19,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice4.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice6.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="578">
               <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice6_cellulaire.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -160,15 +169,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld" />
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\JemepresenteV3\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld\css" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld\js" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\Han Solo\css" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\Han Solo" />
-      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\JemepresenteV3\images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\JemepresenteV3\images" />
     </key>
   </component>
@@ -218,15 +227,15 @@
       <workItem from="1553231036231" duration="788000" />
       <workItem from="1553219953375" duration="4155000" />
       <workItem from="1553842721157" duration="5971000" />
-      <workItem from="1554442991686" duration="2190000" />
+      <workItem from="1554442991686" duration="2977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53944000" />
+    <option name="totallyTimeSpent" value="54731000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21588486" />
@@ -394,10 +403,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice4.html">
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice6_cellulaire.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>
