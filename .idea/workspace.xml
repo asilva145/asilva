@@ -10,11 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="272">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -28,29 +28,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice6_cellulaire.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice3.html">
+        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice7.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="7" lean-forward="true" selection-end-line="39" selection-end-column="7" />
+            <state relative-caret-position="391">
+              <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/img/cherry.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="391">
+              <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -111,23 +116,26 @@
         <option value="$PROJECT_DIR$/Han Solo/css/style.css" />
         <option value="$PROJECT_DIR$/Han Solo/index.html" />
         <option value="$PROJECT_DIR$/hellobooStrapWorld/style.css" />
+        <option value="$PROJECT_DIR$/hellobooStrapWorld/exercice4.html" />
+        <option value="$PROJECT_DIR$/hellobooStrapWorld/exercice6_cellulaire.html" />
+        <option value="$PROJECT_DIR$/hellobooStrapWorld/exercice7.html" />
         <option value="$PROJECT_DIR$/hellobooStrapWorld/css/style.css" />
         <option value="$PROJECT_DIR$/hellobooStrapWorld/index.html" />
-        <option value="$PROJECT_DIR$/hellobooStrapWorld/exercice4.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="540" />
-    <option name="y" value="65" />
+    <option name="x" value="284" />
+    <option name="y" value="26" />
     <option name="width" value="1392" />
-    <option name="height" value="995" />
+    <option name="height" value="999" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,7 +164,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,15 +176,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld" />
-      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\JemepresenteV3\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld\img" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld\css" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld\js" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\Han Solo\css" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\Han Solo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\JemepresenteV3\images" />
     </key>
   </component>
@@ -227,18 +234,19 @@
       <workItem from="1553231036231" duration="788000" />
       <workItem from="1553219953375" duration="4155000" />
       <workItem from="1553842721157" duration="5971000" />
-      <workItem from="1554442991686" duration="2977000" />
+      <workItem from="1554442991686" duration="4194000" />
+      <workItem from="1554583287390" duration="3613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54731000" />
+    <option name="totallyTimeSpent" value="59561000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21588486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15565032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -366,10 +374,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/css/bootstrap-theme.css" />
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/index.html">
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice6_cellulaire.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="374">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="7" lean-forward="true" selection-end-line="39" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -389,17 +404,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice3.html">
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/img/cherry.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="7" lean-forward="true" selection-end-line="39" selection-end-column="7" />
+        <state relative-caret-position="391">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/css/style.css">
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -410,10 +428,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice6_cellulaire.html">
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="391">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="45" />
         </state>
       </provider>
     </entry>
