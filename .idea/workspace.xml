@@ -9,7 +9,66 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formatif2/js/jquery-3.3.1.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.js.map">
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.min.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.bundle.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.min.js.map">
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.bundle.js.map">
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.bundle.min.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.bundle.min.js.map">
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formatif2/css/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/formatif2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,8 +124,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="asilva145" type="b2602c69:ProjectViewProjectNode" />
+              <item name="asilva145" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="asilva145" type="b2602c69:ProjectViewProjectNode" />
+              <item name="asilva145" type="462c0819:PsiDirectoryNode" />
+              <item name="formatif2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -79,17 +153,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\formatif2" />
-      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld" />
-      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\JemepresenteV3\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\formatif2\img" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld\img" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld\css" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld\js" />
-      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\Han Solo\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\formatif2" />
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld" />
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\JemepresenteV3\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -147,16 +221,18 @@
       <workItem from="1556505463488" duration="15263000" />
       <workItem from="1556607049928" duration="658000" />
       <workItem from="1556863344079" duration="3149000" />
+      <workItem from="1556866526137" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98601000" />
+    <option name="totallyTimeSpent" value="99199000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="283" y="27" width="1392" height="999" extended-state="0" />
+    <frame x="283" y="27" width="1392" height="999" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.237988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24174175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -202,43 +278,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/img/cherry.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HanSolo" />
-    <entry file="file://$PROJECT_DIR$/formatif2">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2533">
-          <caret line="149" column="46" selection-start-line="137" selection-start-column="5" selection-end-line="149" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/css/freelancer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/img/portfolio/safe.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/mail/contact_me.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/img/cherry2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
@@ -285,18 +324,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/formatif2/img/parallax .jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/formatif2/img/Photo-informatique-stages.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/formatif2/img/Photo-solili-informatique-02.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/formatif2/img/Photo-solili-informatique-03.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/img/parallax .jpg" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Photo-informatique-stages.jpg" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Photo-solili-informatique-02.jpg" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Photo-solili-informatique-03.jpg" />
     <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice7.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -328,12 +359,8 @@
     <entry file="file://$PROJECT_DIR$/JemepresenteV1/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/formatif2/img/Photo-paralax-informatique-code-mobile.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/formatif2/img/info.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Photo-paralax-informatique-code-mobile.jpg" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/info.jpg" />
     <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice3.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -351,17 +378,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/js/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.bundle.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.min.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.bundle.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.bundle.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/js/bootstrap.bundle.min.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/formatif2/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="716">
-          <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/formatif2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
