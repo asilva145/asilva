@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/formatif2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+            <state relative-caret-position="569">
+              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -68,8 +68,8 @@
         <option value="$PROJECT_DIR$/hellobooStrapWorld/css/style.css" />
         <option value="$PROJECT_DIR$/hellobooStrapWorld/index2.html" />
         <option value="$PROJECT_DIR$/exemple/index.html" />
-        <option value="$PROJECT_DIR$/formatif2/index.html" />
         <option value="$PROJECT_DIR$/formatif2/css/style.css" />
+        <option value="$PROJECT_DIR$/formatif2/index.html" />
       </list>
     </option>
   </component>
@@ -187,12 +187,12 @@
       <workItem from="1556505463488" duration="15263000" />
       <workItem from="1556607049928" duration="658000" />
       <workItem from="1556863344079" duration="3149000" />
-      <workItem from="1556866526137" duration="4205000" />
+      <workItem from="1556866526137" duration="4453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102806000" />
+    <option name="totallyTimeSpent" value="103054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="283" y="27" width="1392" height="999" extended-state="0" />
@@ -384,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/formatif2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        <state relative-caret-position="569">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
         </state>
       </provider>
     </entry>
