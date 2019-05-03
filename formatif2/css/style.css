@@ -87,9 +87,10 @@ nargin-top:100px;
 margin-bottom:100px;
 }
 .but{
-    background-color: #af3e21;
+    background-color: #e84819;
     padding: 20px 24px;
     border-radius: 8px;
+    color: white;
 }
 
 .carreGris{
