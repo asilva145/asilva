@@ -9,90 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HanSolo">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice6.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice10.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice7.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/img/cherry.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JemepresenteV2/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -127,14 +44,19 @@
         <option value="$PROJECT_DIR$/hellobooStrapWorld/exercice4.html" />
         <option value="$PROJECT_DIR$/hellobooStrapWorld/exercice6_cellulaire.html" />
         <option value="$PROJECT_DIR$/hellobooStrapWorld/exercice7.html" />
-        <option value="$PROJECT_DIR$/hellobooStrapWorld/css/style.css" />
+        <option value="$PROJECT_DIR$/hellobooStrapWorld/index3.html" />
         <option value="$PROJECT_DIR$/hellobooStrapWorld/index.html" />
+        <option value="$PROJECT_DIR$/hellobooStrapWorld/css/style.css" />
+        <option value="$PROJECT_DIR$/hellobooStrapWorld/index2.html" />
+        <option value="$PROJECT_DIR$/exemple/index.html" />
+        <option value="$PROJECT_DIR$/formatif2/css/style.css" />
+        <option value="$PROJECT_DIR$/formatif2/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="284" />
-    <option name="y" value="26" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="283" />
+    <option name="y" value="27" />
     <option name="width" value="1392" />
     <option name="height" value="999" />
   </component>
@@ -143,35 +65,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="asilva145" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asilva145" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="asilva145" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asilva145" type="462c0819:PsiDirectoryNode" />
-              <item name="hellobooStrapWorld" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="asilva145" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asilva145" type="462c0819:PsiDirectoryNode" />
-              <item name="hellobooStrapWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="asilva145" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asilva145" type="462c0819:PsiDirectoryNode" />
-              <item name="hellobooStrapWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,16 +79,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\formatif2" />
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld" />
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\JemepresenteV3\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\formatif2\img" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld\img" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld\css" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld\js" />
       <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\Han Solo\css" />
-      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\Han Solo" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\hellobooStrapWorld" />
-      <recent name="C:\Users\pcbruno\Documents\GitHub\asilva145\JemepresenteV3\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,22 +139,28 @@
       <workItem from="1553219953375" duration="4155000" />
       <workItem from="1553842721157" duration="5971000" />
       <workItem from="1554442991686" duration="4194000" />
-      <workItem from="1554583287390" duration="6883000" />
+      <workItem from="1554583287390" duration="8340000" />
+      <workItem from="1554618771561" duration="3170000" />
+      <workItem from="1555047145491" duration="10198000" />
+      <workItem from="1555657525507" duration="469000" />
+      <workItem from="1556501706685" duration="1406000" />
+      <workItem from="1556505463488" duration="15263000" />
+      <workItem from="1556607049928" duration="658000" />
+      <workItem from="1556863344079" duration="3149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62831000" />
+    <option name="totallyTimeSpent" value="98601000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="283" y="27" width="1392" height="999" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15565032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.237988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.31914893" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -268,7 +170,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.42873695" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.42857143" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -300,153 +202,166 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/etudes.html" />
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/JemepresenteV2">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JemepresenteV2/css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JemepresenteV2/HTML/img/picjumbo.com_banque-dimages-gratuites_tombreton.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JemepresenteV3/css/styleClasses.css.css" />
-    <entry file="file://$PROJECT_DIR$/JemepresenteV3/images/baseball.jpg" />
-    <entry file="file://$PROJECT_DIR$/JemepresenteV1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JemepresenteV3/images/pattern.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JemepresenteV3/images/design.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JemepresenteV3/images/img_lights.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Correction Semaine 2/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/Correction Semaine 2/index.html" />
-    <entry file="file://$PROJECT_DIR$/JemepresenteV2/HTML/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JemepresenteV3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="2" selection-start-line="65" selection-end-line="65" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/css/style.css.txt" />
-    <entry file="file://$PROJECT_DIR$/JemepresenteV3/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/js/npm.js" />
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/js/jquery.min.js" />
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/css/bootstrap-theme.css" />
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice6_cellulaire.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="7" lean-forward="true" selection-end-line="39" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/img/chewbacca.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/css/etoileMort.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JemepresenteV2/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/img/cherry.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HanSolo">
+    <entry file="file://$PROJECT_DIR$/HanSolo" />
+    <entry file="file://$PROJECT_DIR$/formatif2">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
+    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+        <state relative-caret-position="2533">
+          <caret line="149" column="46" selection-start-line="137" selection-start-column="5" selection-end-line="149" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
+    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/css/freelancer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="510">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/img/portfolio/safe.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/mail/contact_me.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/img/cherry2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exemple/Facebook.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/1643798845928298" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/ajaxSpinner.gif" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/dashicons.min.css" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/icon-facebook-s.png" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/icone-etudiant-un-jour-sm.png" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/mobmenu-icons.css" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/mobmenu.js.download" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/Photo-solili-informatique-03.jpg" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/Photo-solili-informatique-01.jpg" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/Photo-solili-informatique-02.jpg" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/navigation.js.download" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/logo.png" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/img-question-liste-des-prealables.png" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/img-question-inscris-toi-au-programme.png" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/icon-youtube-s.png" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/icon-instagram-s.png" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/dynamic-mobmenu.css" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/Photo-informatique-stages.jpg" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford_files/1384908421632446" />
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Techniques de l'informatique - Cégep de Thetford.html" />
+    <entry file="file://$USER_HOME$/Desktop/Techniques de l'informatique - Cégep de Thetford_files/css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exemple/CSS/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exemple/CSS/style.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <caret line="20" column="6" selection-start-line="19" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/img/parallax .jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Photo-informatique-stages.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Photo-solili-informatique-02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Photo-solili-informatique-03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="10" selection-start-line="27" selection-start-column="3" selection-end-line="32" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="15" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JemepresenteV1/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/img/Photo-paralax-informatique-code-mobile.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/img/info.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice3.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobooStrapWorld/exercice6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="14" selection-start-line="27" selection-start-column="4" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exemple/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatif2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,98 @@
+
+
+
+.parallax {
+
+    background-image:url("../img/parallax .jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.blanc{
+    background-color: white;
+    opacity: 0.5;
+    background-attachment: fixed;
+    }
+.carreJaune{
+    background-color: rgba(224, 217, 29,.5);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white;
+}
+html, body{
+    margin:0;
+    Height:100%;
+}
+.hauteur25
+{height: 25%;
+
+}
+.hauteur100
+{height: 100%;
+}
+.hauteur75
+{height: 75%;
+
+}
+.h-90{
+height: 90%;
+}
+
+.h-10{
+    height: 90%;
+}
+
+
+
+.container-fluid
+{
+    margin:0;
+    padding:0;
+
+}
+
+
+h6
+{
+
+    font-size:32px;
+    color:rgba(41, 45, 44, 0.79);
+    text-align: left;
+
+}
+h5
+{
+
+    font-size:20px;
+    color: rgba(41, 45, 44, 0.79);
+    text-align: left;
+
+}
+h1{
+
+    font-size:15px;
+    color: rgba(41, 45, 44, 0.79);
+    text-align: left;
+
+}
+html,body {
+    margin:0; height:100%;
+}
+
+.margen{
+nargin-top:100px;
+margin-bottom:100px;
+}
+.but{
+    background-color: #af3e21;
+    padding: 20px 24px;
+    border-radius: 8px;
+}
+
+.carreGris{
+     background-color: rgba(255, 255, 255,.5);
+    color: black;
+}
