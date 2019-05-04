@@ -3,24 +3,41 @@
 
 .parallax {
 
-    background-image:url("../img/parallax .jpg");
+    background-image:url("../img/parallax.jpg");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
+
 }
 
-.blanc{
-    background-color: white;
-    opacity: 0.5;
+
+.parallax2 {
+
+    background-image:url("../img/parallax2.jpg");
+    height: 700px;
     background-attachment: fixed;
-    }
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+
+}
+
 .carreJaune{
     background-color: rgba(224, 217, 29,.5);
     background-attachment: fixed;
     background-repeat: no-repeat;
-    color: white;
+    color: black;
+}
+
+.carreGris{
+    background-color: rgba(255, 255, 255,.5);
+    color: black;
 }
 html, body{
     margin:0;
@@ -33,19 +50,13 @@ html, body{
 .hauteur100
 {height: 100%;
 }
-.hauteur75
-{height: 75%;
-
-}
 .h-90{
 height: 90%;
 }
 
 .h-10{
-    height: 90%;
+height: 10%;
 }
-
-
 
 .container-fluid
 {
@@ -54,21 +65,19 @@ height: 90%;
 
 }
 
-
-h6
-{
+h6{
 
     font-size:32px;
-    color:rgba(41, 45, 44, 0.79);
+    color: rgba(41, 45, 44, 0.79);
     text-align: left;
 
 }
-h5
-{
+h7{
 
-    font-size:20px;
+    font-size:32px;
     color: rgba(41, 45, 44, 0.79);
     text-align: left;
+    color: white;
 
 }
 h1{
@@ -77,6 +86,13 @@ h1{
     color: rgba(41, 45, 44, 0.79);
     text-align: left;
 
+}
+h9{
+
+    font-size:15px;
+    color: rgba(41, 45, 44, 0.79);
+    text-align: left;
+    color: white;
 }
 html,body {
     margin:0; height:100%;
@@ -93,13 +109,23 @@ margin-bottom:100px;
     color: white;
 }
 
-.carreGris{
-     background-color: rgba(255, 255, 255,.5);
-    color: black;
-}
+
 .check
 {
-
        content: "\2713";
 
+}
+
+.vert
+{ padding: 50px;
+    background-color:rgb(51, 181, 115)
+}
+.blue
+{ padding: 50px;
+    background-color:rgb(30, 161, 189)
+}
+
+.beige
+{ padding: 50px;
+    background-color:rgb(201, 188, 133)
 }
