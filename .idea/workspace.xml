@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/formatif2/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
-              <caret line="124" column="38" lean-forward="true" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
+            <state relative-caret-position="467">
+              <caret line="114" selection-start-line="114" selection-end-line="114" />
             </state>
           </provider>
         </entry>
@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/formatif2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+            <state relative-caret-position="674">
+              <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -106,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="283" />
     <option name="y" value="27" />
     <option name="width" value="1392" />
@@ -232,18 +232,18 @@
       <workItem from="1556607049928" duration="658000" />
       <workItem from="1556863344079" duration="3149000" />
       <workItem from="1556866526137" duration="6278000" />
-      <workItem from="1556977823578" duration="7261000" />
+      <workItem from="1556977823578" duration="12355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112140000" />
+    <option name="totallyTimeSpent" value="117234000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="283" y="27" width="1392" height="999" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2454955" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17430703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -410,15 +410,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/formatif2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="124" column="38" lean-forward="true" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
+        <state relative-caret-position="467">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/formatif2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        <state relative-caret-position="674">
+          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
         </state>
       </provider>
     </entry>

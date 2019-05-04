@@ -110,22 +110,26 @@ margin-bottom:100px;
 }
 
 
-.check
-{
-       content: "\2713";
-
-}
-
 .vert
 { padding: 50px;
-    background-color:rgb(51, 181, 115)
+  background-color:rgb(51, 181, 115);
 }
 .blue
 { padding: 50px;
-    background-color:rgb(30, 161, 189)
+ background-color:rgb(30, 161, 189);
 }
 
 .beige
 { padding: 50px;
-    background-color:rgb(201, 188, 133)
+background-color:rgb(201, 188, 133);
+}
+
+.orange
+{
+    color:orangered;
+}
+.button_2
+{background-color: #e7e7e7;
+color: black;
+border-radius: 8px;
 }
