@@ -102,6 +102,16 @@ h9{
     text-align: left;
     color: white;
 }
+
+h5
+{
+
+    font-size:24px;
+    color: rgba(41, 45, 44, 0.79);
+    text-align: left;
+    color: black;
+
+}
 html,body {
     margin:0; height:100%;
 }
