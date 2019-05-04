@@ -16,6 +16,17 @@
 
 .parallax2 {
 
+    background-image:url("../img/parallax3.jpg");
+    height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.parallax3 {
+
     background-image:url("../img/parallax2.jpg");
     height: 700px;
     background-attachment: fixed;
@@ -24,10 +35,7 @@
     background-size: cover;
 
 
-
-
 }
-
 .carreJaune{
     background-color: rgba(224, 217, 29,.5);
     background-attachment: fixed;

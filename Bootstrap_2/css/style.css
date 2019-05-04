@@ -1,0 +1,95 @@
+.rouge
+{
+    background-color: red;
+    height:100px;
+}
+
+.blue
+{
+    background-color: deepskyblue;
+    height:100px;
+}
+
+.green
+{
+    background-color: green;
+    height:100px;
+}
+.yellow
+{
+    background-color: yellow;
+    height:100px;
+}
+.orange
+{
+    background-color:orange;
+    height:100px;
+}
+
+.bg {
+
+    background-image: url("https://cdn.pixabay.com/photo/2014/04/14/20/11/japanese-cherry-trees-324175_960_720.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100%;
+    opacity:0.8;
+}
+
+html, body{
+    margin:0;
+
+    Height:100%;
+}
+
+.hauteur100
+{height: 100%;
+}
+
+p{
+
+    font-size: 1.3rem;
+    line-height: 1.5;
+}
+
+}
+h2
+{
+    font-family: 'Tangerine';
+    font-size: 24px;
+    color: darkred;
+}
+
+
+.container-fluid
+{
+    margin:0;
+    padding:0;
+
+}
+h1
+ {
+     font-family: 'Tangerine';
+     font-size: 52px;
+     color: white;
+ }
+
+h5
+{
+    font-family: 'Tangerine';
+    font-size: 24px;
+    color:white;
+}
+h4
+{
+    font-family: 'arial';
+    font-size: 12px;
+    color:white;
+}
+hr{
+    padding-bottom:30px;
+    padding-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #f05f40;
+}
