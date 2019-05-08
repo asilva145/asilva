@@ -2,54 +2,44 @@
 
 
 .parallax {
-
     background-image:url("../img/parallax.jpg");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
-
 }
 
 
 .parallax2 {
-
     background-image:url("../img/parallax3.jpg");
     height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-block-start:70px;
-
 
 }
 .parallax3 {
-
     background-image:url("../img/parallax2.jpg");
     height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-block-start:70px;
-
-
 
 }
 .carreJaune{
     background-color: rgba(224, 217, 29,.5);
     background-attachment: fixed;
     background-repeat: no-repeat;
-    color: black;
+
 }
 
 .carreGris{
     background-color: rgba(255, 255, 255,.5);
-    color: black;
 }
+
 html, body{
     margin:0;
     Height:100%;
@@ -69,58 +59,53 @@ height: 90%;
 height: 10%;
 }
 
-.container-fluid
-{
+.container-fluid{
     margin:0;
     padding:0;
-
 }
 
 h6{
 
     font-size:32px;
     color: rgba(41, 45, 44, 0.79);
-    text-align: left;
-
+    font-weight: bold;
+    color: black;
 }
-h7{
+h3{
 
     font-size:32px;
     color: rgba(41, 45, 44, 0.79);
-    text-align: left;
     color: white;
-
+    font-weight: bold;
 }
+
 h1{
-
-    font-size:15px;
+    font-size:17px;
     color: rgba(41, 45, 44, 0.79);
-    text-align: left;
-
+    font-weight: normal;
+    color: black;
 }
-h9{
-
-    font-size:15px;
+h2{
+    font-size:17px;
     color: rgba(41, 45, 44, 0.79);
-    text-align: left;
     color: white;
+    font-weight: normal;
 }
 
-h5
-{
-
+h5 {
     font-size:24px;
     color: rgba(41, 45, 44, 0.79);
     text-align: left;
     color: black;
-
+    font-weight: normal;
 }
+
 html,body {
     margin:0; height:100%;
 }
 
 .margen{
-nargin-top:100px;
+margin-top:100px;
 margin-bottom:100px;
 }
 .but{
@@ -131,29 +116,32 @@ margin-bottom:100px;
 }
 
 
-.vert
-{ padding: 50px;
+.vert{
+  padding: 50px;
   background-color:rgb(51, 181, 115);
 
 }
-.blue
-{ padding: 50px;
+.blue{
+    padding: 50px;
  background-color:rgb(30, 161, 189);
 
 }
 
-.beige
-{ padding: 50px;
+.beige{
+ padding: 50px;
 background-color:rgb(201, 188, 133);
 
 }
 
-.orange
-{
+.orange{
+
     color:orangered;
 }
-.button_2
-{background-color: #e7e7e7;
+.button_2{
+background-color: #e7e7e7;
+padding: 8px 10px;
 color: black;
-border-radius: 8px;
+border-radius: 6px;
+
 }
+
