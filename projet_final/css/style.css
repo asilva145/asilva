@@ -1,0 +1,124 @@
+
+
+
+.parallax {
+    background-image:url("../img/parallax.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parallax2 {
+    background-image:url("../img/parallax2.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.carreJaune{
+    background-color: rgba(224, 217, 29,.5);
+    
+}
+
+.carreGris{
+    background-color: rgba(255, 255, 255,.5);
+    
+
+}
+
+html, body{
+    margin:0;
+    Height:100%;
+}
+.hauteur25
+{height: 25%;
+
+}
+.hauteur100
+{height: 100%;
+}
+.h-75{
+height: 75%;
+}
+
+.h-25{
+height: 25%;
+}
+
+.container-fluid{
+    margin:0;
+    padding:0;
+}
+
+h6{
+
+    font-size:32px;
+    color: rgba(41, 45, 44, 0.79);
+    font-weight: bold;
+    color: black;
+}
+h3{
+
+    font-size:32px;
+    color: rgba(41, 45, 44, 0.79);
+    color: white;
+    font-weight: bold;
+}
+
+h1{
+    font-size:17px;
+    color: rgba(41, 45, 44, 0.79);
+    font-weight: normal;
+    color: black;
+}
+h2{
+    font-size:17px;
+    color: rgba(41, 45, 44, 0.79);
+    color: white;
+    font-weight: normal;
+}
+
+h5 {
+    font-size:24px;
+    color: rgba(41, 45, 44, 0.79);
+    text-align: left;
+    color: black;
+    font-weight: normal;
+}
+
+html,body {
+    margin:0; height:100%;
+}
+
+.margen{
+margin-top:100px;
+margin-bottom:100px;
+}
+.but{
+    background-color: #63e8e6;
+    padding: 20px 24px;
+    border-radius: 8px;
+    color: white;
+}
+
+
+
+
+.orange{
+
+    color: #63e8e6;
+}
+.button_2{
+background-color: #a3e8e3;
+padding: 8px 10px;
+color: black;
+border-radius: 6px;
+
+}
+
