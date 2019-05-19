@@ -71,6 +71,18 @@ h3{
     font-weight: bold;
 }
 
+h1{
+    font-size:17px;
+    color: rgba(41, 45, 44, 0.79);
+    font-weight: normal;
+    color: black;
+}
+h2{
+    font-size:17px;
+    color: rgba(41, 45, 44, 0.79);
+    color: white;
+    font-weight: normal;
+}
 
 h5 {
     font-size:24px;
@@ -94,8 +106,6 @@ margin-bottom:100px;
     border-radius: 8px;
     color: white;
 }
-
-
 
 
 .orange{
