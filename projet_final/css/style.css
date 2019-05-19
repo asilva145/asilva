@@ -8,6 +8,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
 }
 
 
@@ -18,6 +19,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    color: black;
 
 }
 
@@ -71,18 +73,6 @@ h3{
     font-weight: bold;
 }
 
-h1{
-    font-size:17px;
-    color: rgba(41, 45, 44, 0.79);
-    font-weight: normal;
-    color: black;
-}
-h2{
-    font-size:17px;
-    color: rgba(41, 45, 44, 0.79);
-    color: white;
-    font-weight: normal;
-}
 
 h5 {
     font-size:24px;
@@ -102,21 +92,18 @@ margin-bottom:100px;
 }
 .but{
     background-color: #63e8e6;
-    padding: 20px 24px;
+    padding: 10px 20px;
     border-radius: 8px;
-    color: white;
+    color: rgba(0, 0, 0, 0.84);
 }
 
 
 .orange{
 
     color: #63e8e6;
-}
-.button_2{
-background-color: #a3e8e3;
-padding: 8px 10px;
-color: black;
-border-radius: 6px;
 
+.padzone2{
+   padding-top: 50px;
+   padding-bottom: 50px;
 }
 
