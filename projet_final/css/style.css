@@ -1,5 +1,5 @@
 
-
+/*par Andrea*19-05-2019*/
 
 .parallax {
     background-image:url("../img/parallax.jpg");
@@ -100,8 +100,22 @@ margin-bottom:100px;
 
     color: #63e8e6;
 
-.padzone2{
-   padding-top: 50px;
-   padding-bottom: 50px;
-}
 
+
+/* dancing-script-regular - latin */
+@font-face {
+    font-family: Danc;
+    src: url("danc.ttf");
+}
+}
+.voy
+{
+    font-family: Danc;
+    font-size:52px;
+    color : black;
+}
+.voy2 {
+     font-family: Danc;
+     font-size:32px;
+     color : black;
+ }
