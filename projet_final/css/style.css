@@ -41,8 +41,8 @@ html, body{
 {height: 25%;
 
 }
-.hauteur100
-{height: 100%;
+.hauteur100 {
+    height: 100%;
 }
 .h-75{
 height: 75%;
@@ -119,3 +119,6 @@ margin-bottom:100px;
      font-size:32px;
      color : black;
  }
+.container {
+    overflow: hidden;
+}
