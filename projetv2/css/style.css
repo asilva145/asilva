@@ -63,13 +63,14 @@ h6{
     color: rgba(41, 45, 44, 0.79);
     font-weight: bold;
     color: black;
+    font-family: 'Norican', cursive;
 }
 h3{
 
-    font-size:32px;
+    font-size:52px;
     color: rgba(41, 45, 44, 0.79);
-    color: white;
-    font-weight: bold;
+    color: white ;
+    font-family: 'Norican', cursive
 }
 
 h5 {
@@ -78,6 +79,7 @@ h5 {
     text-align: left;
     color: black;
     font-weight: normal;
+    font-family: 'Norican', cursive;
 }
 
 html,body {
