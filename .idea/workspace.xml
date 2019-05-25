@@ -41,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projetv2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="93" column="44" lean-forward="true" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
+            <state relative-caret-position="2074">
+              <caret line="134" column="2" selection-start-line="134" selection-start-column="2" selection-end-line="134" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -50,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projetv2/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="766">
+              <caret line="117" column="1" lean-forward="true" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -120,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="283" />
     <option name="y" value="30" />
     <option name="width" value="1392" />
@@ -246,15 +246,15 @@
       <workItem from="1556977823578" duration="25430000" />
       <workItem from="1557293674402" duration="14715000" />
       <workItem from="1557469192467" duration="7724000" />
-      <workItem from="1558804065705" duration="5658000" />
+      <workItem from="1558804065705" duration="6548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182702000" />
+    <option name="totallyTimeSpent" value="183592000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="283" y="30" width="1392" height="998" extended-state="0" />
+    <frame x="283" y="30" width="1392" height="998" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1906907" />
@@ -388,15 +388,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projetv2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="766">
+          <caret line="117" column="1" lean-forward="true" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projetv2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="93" column="44" lean-forward="true" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
+        <state relative-caret-position="2074">
+          <caret line="134" column="2" selection-start-line="134" selection-start-column="2" selection-end-line="134" selection-end-column="2" />
         </state>
       </provider>
     </entry>
