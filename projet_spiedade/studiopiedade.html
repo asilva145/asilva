@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="UTF-8">
+    <title>formulaire</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Norican&display=swap" rel="stylesheet">
+
+
+</head>
+<body>
+
+
+<div class="container-fluid row align-items-center">
+    <div class="col-xl-6 col-md-4 col-sm-4">
+        <div class="container align-items-center">
+            <h1> Studio Piedade </h1>
+        </div>
+                   <form>
+                <div class="form-group">
+                    <label for="exampleFormControlInput1">Email de contato</label>
+                    <input type="courriel" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlSelect1">Tipo de estudio</label>
+                    <select class="form-control" id="exampleFormControlSelect1">
+                        <option>Selection</option>
+                        <option>Studio Boa viagem</option>
+                        <option>Studio Piedade</option>
+
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlSelect2">Type de chambre </label>
+                    <select multiple class="form-control" id="exampleFormControlSelect2">
+                        <option>Tipo de quarto </option>
+                        <option>duble</option>
+                        <option>triple</option>
+                        <option>quadruple</option>
+
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlTextarea1">Comentarios</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>
+                 <div class="form-group row">
+                     <label for="example-datetime-local-input" class="col-2 col-form-label">rentrer</label>
+                     <div class="col-10">
+                     <input class="form-control" type="datetime-local" value="2019-06-19T14:30:00" id="example-datetime-local-input">
+                 </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="example-datetime-local-input" class="col-2 col-form-label">sortir</label>
+                            <div class="col-10">
+                                <input class="form-control" type="datetime-local" value="2019-06-19T09:30:00" id="example-datetime-local-input">
+                            </div>
+                        </div>
+
+            </form>
+
+
+        <div class="col-md-6 col-md-offset-3" id="form_container">
+
+
+
+                    <div class="col-sm-6 form-group">
+                        <label for="name">
+                            Your Name:</label>
+                        <input type="text" class="form-control" id="name" name="name" required>
+                    </div>
+                    <div class="col-sm-6 form-group">
+                        <label for="email">
+                            Email:</label>
+                        <input type="email" class="form-control" id="email" name="email" required>
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div class="col-sm-12 form-group">
+                        <button type="submit" class="btn btn-lg btn-default pull-right" >Send →</button>
+                    </div>
+                </div>
+
+            </form>
+            <div id="success_message" style="width:100%; height:100%; display:none; ">
+                <h3>Posted your message successfully!</h3>
+            </div>
+            <div id="error_message"
+                 style="width:100%; height:100%; display:none; ">
+                <h3>Error</h3>
+                Sorry there was an error sending your form.
+
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<script src="js/jquery-3.3.1.js"></script>
+<script src="js/bootstrap.js"></script>
+</body>
+</html>

@@ -1,0 +1,125 @@
+
+/*par Andrea*19-05-2019*/
+
+.parallax {
+    background-image:url("../img/parallax.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+
+.parallax2 {
+    background-image:url("../img/parallax2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    height: 500px;
+
+}
+
+.carreBlue{
+    background-color: rgba(161, 224, 212, 0.5);
+    
+}
+
+.carreGris{
+    background-color: rgba(227, 255, 255, 0.24);
+    
+
+}
+
+html, body{
+    margin:0;
+    Height:100%;
+}
+.hauteur25
+{height: 25%;
+
+}
+.hauteur100 {
+    height: 100%;
+}
+.h-75{
+height: 75%;
+}
+
+.h-25{
+height: 25%;
+}
+
+.container-fluid{
+    margin:0;
+    padding:0;
+}
+
+h6{
+
+    font-size:32px;
+    color: rgba(41, 45, 44, 0.79);
+        color: black;
+    font-family: 'Norican', cursive;
+}
+h3{
+
+    font-size:52px;
+    color: rgba(41, 45, 44, 0.79);
+    color: #e3ffff;
+    font-family: 'Norican', cursive
+}
+
+h5 {
+    font-size:24px;
+    color: rgba(41, 45, 44, 0.79);
+    text-align: left;
+    color: black;
+    font-weight: normal;
+    font-family: 'Norican', cursive;
+}
+
+html,body {
+    margin:0; height:100%;
+}
+
+.margen{
+margin-top:100px;
+margin-bottom:100px;
+}
+.but{
+    background-color: #63e8e6;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: rgba(0, 0, 0, 0.84);
+}
+
+
+.orange{
+
+    color: #63e8e6;
+
+
+
+/* dancing-script-regular - latin */
+@font-face {
+    font-family: Danc;
+    src: url("danc.ttf");
+}
+}
+.voy
+{
+    font-family: Danc;
+    font-size:52px;
+    color : black;
+}
+.voy2 {
+     font-family: Danc;
+     font-size:32px;
+     color : black;
+ }
+.container {
+    overflow: hidden;
+}

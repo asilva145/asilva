@@ -8,14 +8,48 @@
     <meta charset="UTF-8">
     <title>projet_final</title>
     <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/style.css">
+
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Norican&display=swap" rel="stylesheet">
-
-
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+<div class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Modal body text goes here.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary">Save changes</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img class="d-block w-100" src="1.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="2.jpg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="3.jpg" alt="Third slide">
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light no-gutters   ">
     <a class="navbar-brand" href="#">Voyager </a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
@@ -28,25 +62,24 @@
             <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
             <a class="nav-item nav-link" href="#">Prix</a>
             <a class="nav-item nav-link" href="#">Destinations</a>
-            <a class="nav-item nav-link disabled" href="#">Savoir plus</a>
-        </div>
+                    </div>
     </div>
 </nav>
 
 <div class="container-fluid  hauteur100 parallax ">
-    <div class="row align-items-end  text-center h-75">
+    <div class="row align-items-end  text-center h-75 no-gutters">
         <div class="offset-xl-6 col-xl-3 offset-lg-5 col-lg-4  offset-md-4 col-md-6 offset-sm-2 col-sm-8 ">
 
         </div>
     </div>
-    <div class="row align-items-middle h-25 carreGris">
+    <div class="row align-items-middle h-25 carreGris no-gutters ">
         <div class=" offset-1 col-12 col-md-8 offset-1  pt-md-5   p-2 ">
             <h3>Êtes-vous prêts à tout pour votre voyage de rêve?</h3>
         </div>
     </div>
 </div>
     <div class="container py-5 d-none d-sm-block ">
-        <div class="row align-items-top ">
+        <div class="row align-items-top  ">
             <div class= "col-md-6 ">
                 <h6>Préparer un voyage </h6>
                 <p> Il est certain que si tu veux tout clé-en-main, le voyage tout prévu et tout organisé pour toi, c’est évidemment faisable. Mais ça va te coûter pas mal plus cher.</p>
@@ -65,7 +98,7 @@
         </div>
     </div>
 
-<div class="container-fluid  parallax2   px-1">
+<div class="container-fluid  parallax2   px-1 no-gutters">
     <div class="row ">
         <div class=" offset-xl-6 col-xl-3 offset-lg-5 col-lg-4 offset-md-4 col-md-6 offset-sm-2 col-sm-8  px-0 py-5">
             <h6 class="text-white">Voici quelques conseils pratiques</h6>
@@ -85,31 +118,31 @@
 
 <div class="container-fluid no-gutters px-0">
     <div class="row no-gutters align-items-top ">
-        <div class="col-xl-4 ">
+        <div class="col-xl-4 col-md-6 col-sm no gutte ">
             <img src="img/1.jpg" alt="1" class="container-fluid" />
         </div>
-        <div class="col-xl-4 ">
+        <div class="col-xl-4 col-md-6 col-sm ">
             <img src="img/2.jpg" alt="2" class="container-fluid" />
         </div>
-        <div class="col-xl-4 ">
+        <div class="col-xl-4 col-md-6 col-sm ">
             <img src="img/3.jpg" alt="3" class="container-fluid"/>
         </div>
     </div>
 
     <div class="row no-gutters align-items-top  py-0">
-        <div class="col-xl-4 ">
+        <div class="col-xl-4 col-md-6 col-sm">
             <img src="img/4.jpg" alt="4" class="container-fluid  " />
         </div>
-        <div class="col-xl-4 ">
+        <div class="col-xl-4 col-md-6 col-sm ">
             <img src="img/5.jpg" alt="5" class="container-fluid" />
         </div>
-        <div class="col-xl-4 ">
+        <div class="col-xl-4 col-md-6 col-sm ">
             <img src="img/6.jpg" alt="6" class="container-fluid"/>
         </div>
     </div>
 </div>
 
-<div class="card bg-light mb-8 align-items-right">
+<div class="card bg-light mb-8 align-items-right no-gutters">
     <div class="card-header">LAISSEZ-NOUS UN MESSAGE!</div>
         <div class="card-body">
 
