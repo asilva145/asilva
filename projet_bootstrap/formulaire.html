@@ -15,53 +15,56 @@
 
 
 <div class="container-fluid row align-items-center">
-    <div class="col">
-                    <form>
-                <div class="form-group">
-                    <label for="exampleFormControlInput1">Email address</label>
-                    <input type="courriel" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-                </div>
-                <div class="form-group">
-                    <label for="exampleFormControlSelect1">Type de Studio</label>
-                    <select class="form-control" id="exampleFormControlSelect1">
-                        <option>Selection</option>
-                        <option>Studio Boa viagem</option>
-                        <option>Studio Piedade</option>
+    <div class="col-sm-4">
+    <div class="card">
+        <div class="card-header">
+           <p> Formulaire</p>
+        </div>
+        <form>
+          <div class="form-group">
+            <label for="exampleFormControlInput1">courriel</label>
+            <input type="courriel" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+          </div>
 
-                    </select>
-                </div>
-                <div class="form-group">
-                    <label for="exampleFormControlSelect2">Type de chambre </label>
-                    <select multiple class="form-control" id="exampleFormControlSelect2">
-                        <option>Type de chambre </option>
-                        <option>double</option>
-                        <option>triple</option>
-                        <option>quadruple</option>
+          <div class="form-group">
+              <label for="exampleFormControlSelect1">Type de Studio</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                   <option>Selection</option>
+                   <option>hotel 1</option>
+                   <option>hotel 2</option>
+               </select>
+          </div>
+            <div class="form-group">
+                <label for="exampleFormControlSelect1">Type de chambre</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                    <option>Selection</option>
+                    <option>double</option>
+                    <option>triple</option>
 
-                    </select>
-                </div>
-                <div class="form-group">
-                    <label for="exampleFormControlTextarea1">Example textarea</label>
-                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-                </div>
-                 <div class="form-group row">
-                     <label for="example-datetime-local-input" class="col-2 col-form-label">rentrer</label>
-                     <div class="col-10">
-                     <input class="form-control" type="datetime-local" value="2011-08-19T13:45:00" id="example-datetime-local-input">
-                 </div>
-                        </div>
-                        <div class="form-group row">
-                            <label for="example-datetime-local-input" class="col-2 col-form-label">sortir</label>
-                            <div class="col-10">
-                                <input class="form-control" type="datetime-local" value="2011-08-19T13:45:00" id="example-datetime-local-input">
-                            </div>
-                        </div>
+                </select>
+          <div class="form-group">
+              <label for="exampleFormControlTextarea1">Commentaires</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+           </div>
+           <div class="form-group row">
+               <label for="example-datetime-local-input" class="col-2 col-form-label">rentrer</label>
+                 <div class="col-10">
+                  <input class="form-control" type="datetime-local" value="2011-08-19T13:45:00" id="example-datetime-local-input">
+            </div>
 
-            </form>
+           <div class="form-group row">
+               <label for="example-datetime-local-input" class="col-2 col-form-label">sortir</label>
+                <div class="col-10">
+                <input class="form-control" type="datetime-local" value="2011-08-19T13:45:00" id="example-datetime-local-input">
+           </div>
+      </div>
+
+        </form>
     </div>
 </div>
 </div>
-
+<button type="submit" class="btn btn-primary mb-2">Envoyer</button>
+</form>
 
 <script src="js/jquery-3.3.1.js"></script>
 <script src="js/bootstrap.js"></script>
