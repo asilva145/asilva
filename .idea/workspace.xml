@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projet_bootstrap/formulaire.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="66" column="6" lean-forward="true" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+            <state relative-caret-position="708">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
@@ -247,12 +247,12 @@
       <workItem from="1559588225971" duration="6311000" />
       <workItem from="1559595378390" duration="40000" />
       <workItem from="1559595538543" duration="1419000" />
-      <workItem from="1559707237033" duration="2680000" />
+      <workItem from="1559707237033" duration="2924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205305000" />
+    <option name="totallyTimeSpent" value="205549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="316" y="151" width="1392" height="988" extended-state="0" />
@@ -452,8 +452,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projet_bootstrap/formulaire.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="66" column="6" lean-forward="true" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        <state relative-caret-position="708">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
